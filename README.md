@@ -1,1 +1,3 @@
-# P5-T2-MagdaDenisaAdi
+Blîndu Elena-Magdalena
+Andrei Denisa-Maria
+Bratu Florin-Adrian
